@@ -1,5 +1,5 @@
 ### Olá, Sou o Gabriel! 😁 👋
-- Estou estudando JavaScript
+- Estou estudando html,Css e JS
 - Busco oportunidades de aprendizado e emprego!
 - Tenho 21 anos !
 
